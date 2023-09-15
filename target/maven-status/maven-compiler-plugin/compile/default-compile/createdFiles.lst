@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Clases\Animal.class
 Clases\Perro.class
 com\mycompany\ejercicio1_herencia\Ejercicio1_Herencia.class
 Clases\Caballo.class
 Clases\Gato.class
+=======
+Entidades\Electrodoméstico.class
+Entidades\Lavadora.class
+Entidades\Televisor.class
+com\mycompany\ejercicio2_herencia\Ejercicio2_Herencia.class
+Enumeraciones\Colores.class
+>>>>>>> d96cd4f0653fecef22075f988c3080b651fd2b5f

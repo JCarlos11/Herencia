@@ -2,13 +2,32 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany</groupId>
+<<<<<<< HEAD
     <artifactId>Ejercicio1_Herencia</artifactId>
+=======
+<<<<<<< HEAD
+    <artifactId>Ejercicio2_Herencia</artifactId>
+=======
+    <artifactId>MascotaAPP</artifactId>
+>>>>>>> 4848a4a736a829b0526e6245b00d172ad185f577
+>>>>>>> d96cd4f0653fecef22075f988c3080b651fd2b5f
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>20</maven.compiler.source>
         <maven.compiler.target>20</maven.compiler.target>
+<<<<<<< HEAD
         <exec.mainClass>com.mycompany.ejercicio1_herencia.Ejercicio1_Herencia</exec.mainClass>
     </properties>
+=======
+<<<<<<< HEAD
+        <exec.mainClass>com.mycompany.ejercicio2_herencia.Ejercicio2_Herencia</exec.mainClass>
+    </properties>
+=======
+        <exec.mainClass>com.mycompany.mascotaapp.MascotaAPP</exec.mainClass>
+    </properties>
+    <name>MascotaAPP_INTERF</name>
+>>>>>>> 4848a4a736a829b0526e6245b00d172ad185f577
+>>>>>>> d96cd4f0653fecef22075f988c3080b651fd2b5f
 </project>
